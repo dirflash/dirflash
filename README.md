@@ -15,7 +15,7 @@ I ocassionally blog and tweet about technology and DevNet.
 
 ## Get in touch :coffee:
 
-- [Twitter](https://twitter.com/dirflash).
+- [Twitter](https://twitter.com/dirflash)
 - [LinkedIn](https://www.linkedin.com/in/aaronedavis)
 
 
