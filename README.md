@@ -2,7 +2,9 @@
 
 ## About me
 
-I'm Aaron Davis. An Systems Architect at [Cisco](https://www.cisco.com). 
+I'm Aaron Davis. A Systems Architect at [Cisco](https://www.cisco.com). 
+
+I'm oringally from Houston, and recently moved to Colorado.  I don't miss the heat, and love the view.
 
 I ocassionally blog and tweet about technology and DevNet.  
 
