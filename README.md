@@ -8,7 +8,7 @@ I'm originally from Houston, and recently moved to Colorado.  I don't miss the h
 
 I ocassionally blog and tweet about technology and DevNet.  
 
-<br>
+---
 
 ## Things I am passionate about
 
