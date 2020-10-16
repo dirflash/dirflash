@@ -2,18 +2,25 @@
 
 ## About me
 
-I'm Aaron Davis. A Systems Architect at [Cisco](https://www.cisco.com). 
+I'm Aaron Davis. I work for [Cisco] as a Systems Architect. 
 
-I'm oringally from Houston, and recently moved to Colorado.  I don't miss the heat, and love the view.
+I'm originally from Houston, and recently moved to Colorado.  I don't miss the heat and love the view.
 
 I ocassionally blog and tweet about technology and DevNet.  
 
+<br>
 
 ## Things I am passionate about
 
 - Cisco
 - Python
 - Raspberry PI
+
+## 🔭 I’m currently working on learning
+
+- Flask
+- MongoDB
+- Firebase
 
 ## Get in touch :coffee:
 
@@ -24,7 +31,7 @@ I ocassionally blog and tweet about technology and DevNet.
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dirflash&show_icons=true&hide_border=true&theme=tokyonight" />
 
-[website]: https://www.cisco.com/
+[Cisco]: https://www.cisco.com/
 
 <!--
 **dirflash/dirflash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
