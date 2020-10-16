@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm Aaron Davis. I work for [Cisco] as a Systems Architect. 
+I work for [Cisco] as a Systems Architect. 
 
 I'm originally from Houston, and recently moved to Colorado.  I don't miss the heat and love the view.
 
