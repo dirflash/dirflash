@@ -20,7 +20,11 @@ I ocassionally blog and tweet about technology and DevNet.
 - [Twitter](https://twitter.com/dirflash)
 - [LinkedIn](https://www.linkedin.com/in/aaronedavis)
 
+---
 
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=dirflash&show_icons=true&hide_border=true&theme=tokyonight" />
+
+[website]: https://www.cisco.com/
 
 <!--
 **dirflash/dirflash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
