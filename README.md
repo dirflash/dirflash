@@ -22,6 +22,11 @@ I ocassionally blog and tweet about technology and DevNet.
 <img align="left" alt="mongoDB" width="88px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Firebase" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 
+<br />
+<br />
+
+---
+
 ## Get in touch :coffee:
 
 - [Twitter](https://twitter.com/dirflash)
