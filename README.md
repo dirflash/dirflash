@@ -36,7 +36,7 @@ I ocassionally blog and tweet about technology and DevNet.
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://https://github-readme-stats-dirflash.vercel.app/api?username=dirflash&show_icons=true&hide_border=true&theme=tokyonight" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats-dirflash.vercel.app/api?username=dirflash&show_icons=true&hide_border=true&theme=tokyonight" />
 
 [Cisco]: https://www.cisco.com/
 
