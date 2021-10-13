@@ -18,7 +18,7 @@ I ocassionally blog and tweet about technology and DevNet.
 
 ## 🔭 I’m currently working on learning
 
-- Flask
+- Flask <alt="Flask" scr=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png />
 - MongoDB
 - Firebase
 
