@@ -10,14 +10,14 @@ I ocassionally blog and tweet about technology and DevNet.
 
 ---
 
-## Things I am passionate about
+### Things I am passionate about
 
 - Cisco
 - Python
 - Raspberry PI
 
 
-## 🔭 I’m currently working on learning
+### 🔭 I’m currently working on learning
 
 <img align="left" alt="Flask" width="88px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
 <img align="left" alt="mongoDB" width="88px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
@@ -29,7 +29,7 @@ I ocassionally blog and tweet about technology and DevNet.
 
 ---
 
-## Get in touch :coffee:
+### Get in touch :coffee:
 
 - [Twitter](https://twitter.com/dirflash)
 - [LinkedIn](https://www.linkedin.com/in/aaronedavis)
