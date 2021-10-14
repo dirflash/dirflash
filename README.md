@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Twitter Follow](https://img.shields.io/twitter/follow/dirflash?color=1DA1F2&logo=Twitter&style=for-the-badge)
+
 ## About me
 
 I work for [Cisco] as a Systems Architect. 
