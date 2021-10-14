@@ -37,13 +37,6 @@ I occasionally blog and tweet about technology and DevNet.
 - [LinkedIn](https://www.linkedin.com/in/aaronedavis)
 
 ---
-
-<details>
-  <summary>GitHub Stats</summary
-
-  <img align="left" alt="dirflash's Github Stats" src="https://github-readme-stats-dirflash.vercel.app/api?username=dirflash&show_icons=true&hide_border=true&theme=tokyonight" />
-
-</details>
   
 <details>
   <summary>:zap: GitHub Stats</summary>
