@@ -39,7 +39,7 @@ I occasionally blog and tweet about technology and DevNet.
 ---
 
 <details>
-  <summary>:zap: GitHub Stats</summary
+  <summary>GitHub Stats</summary
     
     <img align="left" alt="dirflash's Github Stats" src="https://github-readme-stats-dirflash.vercel.app/api?username=dirflash&show_icons=true&hide_border=true&theme=tokyonight" />
 
