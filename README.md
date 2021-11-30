@@ -50,6 +50,9 @@ I occasionally blog and tweet about technology and DevNet.
 <!--
 **dirflash/dirflash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=dirflash)](https://github.com/dirflash/github-readme-stats)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
