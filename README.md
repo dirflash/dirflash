@@ -1,16 +1,57 @@
-<h1 align="center">Hi 👋, I'm Aaron Davis</h1>
-<h3 align="center">A Solutions Engineer at Cisco</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=3&section=header" width="100%"/>
+</div>
 
-<p align="left"> <a href="https://twitter.com/dirflash" target="blank"><img src="https://img.shields.io/twitter/follow/dirflash?logo=twitter&style=for-the-badge" alt="dirflash" /></a> </p>
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dirflash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dirflash" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aaronedavis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aaronedavis" height="30" width="40" /></a>
-<a href="https://instagram.com/aaron_at_cisco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaron_at_cisco" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC58ettGFycxHfO2OwOjULjQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="UC58ettGFycxHfO2OwOjULjQ" height="30" width="40" /></a>
-</p>
+```
+╔══════════════════════════════════════════════════════════════╗
+║  AARON DAVIS  ·  Solution Engineer  ·  Cisco Systems  ·  CO  ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br/>
 
+Enterprise networking, security, and AI at scale. CCNP certified.
+Thinking hard about where intelligent networks go next — and what that means for the engineers building them.
+
+<br/>
+
+---
+
+### `// domains`
+
+| | |
+|---|---|
+| **Campus & WAN** | Catalyst 9000 · SD-Access · SD-WAN (Viptela) |
+| **Security** | Cisco Umbrella · Zero Trust · DNS-layer intelligence |
+| **AI & Observability** | ThousandEyes · AI Network Analytics · Meraki |
+| **Development** | Python · Flask · Docker · REST APIs |
+
+---
+
+### `// signal`
+
+[![Site](https://img.shields.io/badge/dirflash.github.io-C9922A?style=flat-square&logo=github&logoColor=0A0A0A)](https://dirflash.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=C9922A)](https://linkedin.com/in/aaronedavis)
+[![Twitter](https://img.shields.io/badge/@dirflash-0A0A0A?style=flat-square&logo=x&logoColor=C9922A)](https://twitter.com/dirflash)
+
+---
+
+### `// selected work`
+
+| Repo | Description |
+|---|---|
+| [Meraki](https://github.com/dirflash/Meraki) | Python scripts for Cisco Meraki automation |
+| [meraki_acl](https://github.com/dirflash/meraki_acl) | ACL management tooling for Meraki networks |
+| [RaspberryPi](https://github.com/dirflash/RaspberryPi) | Edge experiments on Raspberry Pi |
+
+---
+
+<div align="center">
+  <sub>Arvada, CO · UTC-06:00</sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=C9922A&height=2&section=footer" width="100%"/>
+</div>
